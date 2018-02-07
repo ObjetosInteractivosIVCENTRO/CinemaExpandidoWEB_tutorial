@@ -1,0 +1,14 @@
+#Paulina Casas Lias Garcia
+
+email:
+-pcasasl@centro.edu.mx
+
+OS:
+-windows 10
+
+Mobile Os:
+-Android
+
+Web:
+-Opera
+-Chrome
